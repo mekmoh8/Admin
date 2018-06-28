@@ -1,4 +1,4 @@
-Loan Default Prediction - Project Milestone Report
+Loan Default Prediction - Project Proposal
 
 The goal of this project is to find a model where we can predict whether a loan would be paid off in full or the loan needs to be charged off and possibly go default
 
@@ -7,7 +7,7 @@ Data set:
 
 Collect data from the lending club :
 
-Lending Club (LC) is the world’s largest online marketplace connecting borrowers and investors. It is transforming the banking system to make credit more affordable and investing more rewarding. Lending Club operates at a lower cost than traditional bank lending programs and pass the savings on to borrowers in the form of lower rates and to investors in the form of solid risk-adjusted returns. 
+Lending Club (LC) is the worldâ€™s largest online marketplace connecting borrowers and investors. It is transforming the banking system to make credit more affordable and investing more rewarding. Lending Club operates at a lower cost than traditional bank lending programs and pass the savings on to borrowers in the form of lower rates and to investors in the form of solid risk-adjusted returns. 
 
 The information is available in 2 files.
 1.	LOAN DATA  -  The ?le contains complete loan data for all loans issued through the time period stated, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information. 
@@ -17,13 +17,13 @@ The information is available in 2 files.
 
 
 SUMMARY
-A bank loan can provide numerous benefits, but it is a risk to both borrower and the lender. The lender runs the risk of lending you the money but not getting fully repaid. And as for borrower’s personal financial health, you can lose money or even your house. This is why lenders employ careful underwriting standards to minimize the risk for both parties.
+A bank loan can provide numerous benefits, but it is a risk to both borrower and the lender. The lender runs the risk of lending you the money but not getting fully repaid. And as for borrowerâ€™s personal financial health, you can lose money or even your house. This is why lenders employ careful underwriting standards to minimize the risk for both parties.
 
 The analysis of risk in bank loans need understanding what is the meaning of risk. In addition, the number of transactions in banking sector is rapidly growing and huge data volumes are available which represent  the customers behavior and the risks around loan are increased. 
 
 The two most critical questions in the lending industry are: 
 	1. How risky is the borrower? 
-	2. Given the borrower’s risk, should we lend him/her? 
+	2. Given the borrowerâ€™s risk, should we lend him/her? 
 
 
 APPROACH:
@@ -62,7 +62,7 @@ APPROACH:
 Employ Python technologies to import and inspect the raw data, isolate relevant variables, calculate new variables, organize the dataframe, and resolve missing, invalid, corrupted or duplicate values.
 
 2.  Dummy features (one-hot encoding)
-3.  Build models – Logistic Regression, Classification Trees,  and Naive Bayes
+3.  Build models â€“ Logistic Regression, Classification Trees,  and Naive Bayes
 4.  Deep Learning
 5.  Model evaluation and comparison
 6.  Make Predictions
